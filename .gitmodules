@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Ake"]
+	path = Ake
+	url = https://github.com/cran/Ake
+	shallow = true
+	registered = true
+[submodule "Conake"]
+	path = Conake
+	url = https://github.com/cran/Conake
+	shallow = true
+	registered = true
