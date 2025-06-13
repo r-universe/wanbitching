@@ -5,6 +5,3 @@
 [submodule "Ake"]
 	path = Ake
 	url = https://github.com/cran/Ake
-[submodule "Conake"]
-	path = Conake
-	url = https://github.com/cran/Conake
